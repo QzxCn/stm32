@@ -11,6 +11,8 @@ void ledk()
 	//来到这里的时候，系统的时钟已经被配置成72M
 	LED_GPIO_Config();
 /*modified through git here */	
+/*test:looks like,everytime we make some modifications,we need to git add and git commt
+ * */
 	while(1)
 	{
 //	   LED1_ON;
