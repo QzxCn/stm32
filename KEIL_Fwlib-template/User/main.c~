@@ -14,8 +14,6 @@ void ledk()
  *was added in master
  *in branch test:now we see modifications in master showed in
  *test
- *master:last sentence,master¿¿¿cat¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿commit¿¿¿¿
- *master:
  * */	
 	while(1)
 	{
